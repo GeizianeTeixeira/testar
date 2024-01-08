@@ -12,7 +12,7 @@
  }
 
 else if (horaAtual >= 12 && horaAtual < 17) {
-    conteudoDiv1.innerHTML = `Boa tarde! Agora são ${horaAtual} da tarde!.`
+    conteudoDiv1.innerHTML = `Boa tarde! Agora são ${horaAtual} da tarde!!!!.`
     imagem.src = 'tarde.jpg'
     document.body.style.backgroundColor = '#FF4500'
 }
